@@ -30,6 +30,12 @@
 
 </p>
 
+<p align="center" 
+
+![img](xfce-colorschemes/mountaineer_terminal.gif)
+
+</p>
+
 ***
 
 ### Installation:
