@@ -10,7 +10,7 @@
 
 <p align="center" 
 
-![img](scrots/dark-variant.png) 
+![img](scrots/2.png)
 
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center" 
 
-![img](scrots/grey-variant.png) 
+![img](scrots/3.png)
 
 </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center" 
 
-![img](scrots/light-variant.png) 
+![img](scrots/1.png)
 
 </p>
 
