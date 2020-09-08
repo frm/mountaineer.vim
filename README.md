@@ -26,6 +26,12 @@
 
 <p align="center" 
 
+![img](xfce-colorschemes/Screenshot.gif)
+
+</p>
+
+<p align="center" 
+
 ![img](rofi/Screenshot1_dark.png)
 
 </p>
