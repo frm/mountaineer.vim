@@ -6,23 +6,17 @@
 
 </p>
 
-***
-
 <p align="center" 
 
 ![img](scrots/2.png)
 
 </p>
 
-***
-
 <p align="center" 
 
 ![img](scrots/3.png)
 
 </p>
-
-***
 
 <p align="center" 
 
@@ -32,11 +26,17 @@
 
 <p align="center" 
 
-![img](xfce-colorschemes/mountaineer_terminal.gif)
+![img](rofi/Screenshot1_dark.png)
 
 </p>
 
-***
+<p align="center" 
+
+![img](rofi/Screenshot2.png)
+
+</p>
 
 ### Installation:
-Simply move the variant you would like to use into your Vim/Neovim colorscheme folder, A [lightline.vim](https://github.com/itchyny/lightline.vim) colorscheme is also included.
+Simply move the variant you would like to use into your Vim/Neovim colorscheme folder.
+
+Themes for rofi, xfce4-terminal, and lightline.vim are also included if you would like to use them.
