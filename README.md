@@ -14,7 +14,7 @@
 
 <p align="center" 
 
-![img](scrots/3.png)
+![img](scrots/gray-variant.png)
 
 </p>
 
