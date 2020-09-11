@@ -20,24 +20,24 @@ let s:configuration.current_word = get(g:, 'mountaineer-grey_current_word', get(
 " }}}
 " Palette: {{{
 let s:palette = {
-      \ 'bg0':        ['#191919',   '235',  'Black'],
-      \ 'bg1':        ['#222222',   '236',  'DarkGrey'],
-      \ 'bg2':        ['#222222',   '237',  'DarkGrey'],
-      \ 'bg3':        ['#191919',   '238',  'DarkGrey'],
-      \ 'bg4':        ['#191919',   '239',  'Grey'],
-      \ 'bg_red':     ['#222222',   '52',   'DarkRed'],
-      \ 'bg_green':   ['#222222',   '22',   'DarkGreen'],
-      \ 'bg_blue':    ['#222222',   '17',   'DarkBlue'],
+      \ 'bg0':        ['#232323',   '235',  'Black'],
+      \ 'bg1':        ['#303030',   '236',  'DarkGrey'],
+      \ 'bg2':        ['#303030',   '237',  'DarkGrey'],
+      \ 'bg3':        ['#232323',   '238',  'DarkGrey'],
+      \ 'bg4':        ['#232323',   '239',  'Grey'],
+      \ 'bg_red':     ['#303030',   '52',   'DarkRed'],
+      \ 'bg_green':   ['#303030',   '22',   'DarkGreen'],
+      \ 'bg_blue':    ['#303030',   '17',   'DarkBlue'],
       \ 'fg':         ['#f0f0f0',   '223',  'White'],
-      \ 'red':        ['#AC8A8C',   '167',  'Red'],
-      \ 'orange':     ['#AC9D8A',   '208',  'Red'],
-      \ 'yellow':     ['#ACA98A',   '214',  'Yellow'],
-      \ 'green':      ['#8AAC8B',   '108',  'Green'],
-      \ 'cyan':       ['#8AABAC',   '108',  'Cyan'],
-      \ 'blue':       ['#8F8AAC',   '109',  'Blue'],
-      \ 'purple':     ['#AC8AAC',   '175',  'Magenta'],
-      \ 'grey':       ['#363636',   '245',  'LightGrey'],
-      \ 'light_grey': ['#4c4c4c',   '245',  'LightGrey'],
+      \ 'red':        ['#D5BBBC',   '167',  'Red'],
+      \ 'orange':     ['#D5C7BB',   '208',  'Red'],
+      \ 'yellow':     ['#D5D5BB',   '214',  'Yellow'],
+      \ 'green':      ['#BBD5BE',   '108',  'Green'],
+      \ 'cyan':       ['#BBD5D4',   '108',  'Cyan'],
+      \ 'blue':       ['#BCBBD5',   '109',  'Blue'],
+      \ 'purple':     ['#D5BBD3',   '175',  'Magenta'],
+      \ 'grey':       ['#3d3d3d',   '245',  'LightGrey'],
+      \ 'light_grey': ['#545454',   '245',  'LightGrey'],
       \ 'gold':       ['#2f4243',   '214',  'Yellow'],
       \ 'none':       ['NONE',      'NONE', 'NONE']
       \ }
@@ -185,7 +185,7 @@ call s:HL('StatusLineTermNC', s:palette.grey, s:palette.bg1)
 call s:HL('TabLine', s:palette.fg, s:palette.bg4)
 call s:HL('TabLineFill', s:palette.grey, s:palette.bg1)
 call s:HL('TabLineSel', s:palette.bg0, s:palette.green)
-call s:HL('VertSplit', s:palette.bg4, s:palette.none)
+call s:HL('VertSplit', s:palette.grey, s:palette.none)
 call s:HL('Visual', s:palette.fg, s:palette.gold)
 call s:HL('VisualNOS', s:palette.bg0, s:palette.gold, 'underline')
 call s:HL('CursorIM', s:palette.none, s:palette.fg)
