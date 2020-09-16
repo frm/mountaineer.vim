@@ -9,7 +9,7 @@
 <p align="center" 
 
 
-![img](scrots/1.png)
+![img](scrots/mountaineer-grey.png)
 
 </p>
 
