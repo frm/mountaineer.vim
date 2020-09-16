@@ -9,7 +9,7 @@
 <p align="center" 
 
 
-![img](https://i.postimg.cc/Wp7Y7GFc/image.png)
+![img](https://i.postimg.cc/8CWtfMQ3/image.png)
 
 </p>
 
