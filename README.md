@@ -3,7 +3,7 @@
 <p align="center" 
 
 
-![img](https://i.postimg.cc/8CWtfMQ3/image.png)
+![img](https://i.postimg.cc/cCVv3gN9/image.png)
 
 </p>
 
