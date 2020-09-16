@@ -8,21 +8,11 @@
 
 <p align="center" 
 
-![img](scrots/2.png)
-
-</p>
-
-<p align="center" 
-
-![img](scrots/gray-variant.png)
-
-</p>
-
-<p align="center" 
 
 ![img](scrots/1.png)
 
 </p>
+
 
 <p align="center" 
 
