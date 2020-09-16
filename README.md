@@ -2,6 +2,6 @@
 
 <p align="center"
 
-![img](https://i.postimg.cc/7ZH91XdF/new.png)
+![img](https://i.postimg.cc/9Mjfgyny/new.png)
 
 </p>
