@@ -1,34 +1,9 @@
 <h1 align="center">Mountaineer.vim</h1>
 
-<p align="center"
-
-![img](scrots/mountaineer.png)
-
-</p>
-
 <p align="center" 
 
 
 ![img](https://i.postimg.cc/8CWtfMQ3/image.png)
-
-</p>
-
-
-<p align="center" 
-
-![img](xfce-colorschemes/Screenshot.gif)
-
-</p>
-
-<p align="center" 
-
-![img](rofi/Screenshot1_dark.png)
-
-</p>
-
-<p align="center" 
-
-![img](rofi/Screenshot2.png)
 
 </p>
 
