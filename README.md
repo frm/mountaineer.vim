@@ -13,6 +13,13 @@
 
 </p>
 
+<p align="center"
+
+
+![img](https://i.postimg.cc/C5Bbqp9N/image.png)
+
+</p>
+
 ## Installation:
 Simply move the variant you would like to use into your Vim/Neovim colorscheme folder.
 
